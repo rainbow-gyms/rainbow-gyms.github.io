@@ -15,4 +15,4 @@ This app uses a calendar that a user can tap in order to start a gym session sch
 
 ## Mock ## 
 
-<img width="200px" class="rounded float-start pe-4" src="Calendar-Mockup.png ">
+<img width="550.25px" height="325.75px" class="rounded float-start pe-4" src="Calendar-Mockup.png ">
