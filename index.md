@@ -10,7 +10,7 @@ Rainbow Gyms is a gym session scheduling application designed to help University
 * Next.js application repository
 * Project home repository
 
-## Rainbow Gyms Scope
+## Rainbow Use Cases
 
 * Students can browse and filter available gym sessions by day, time, and availability.
 * Students can view gym session details including the creator's profile picture, session time, location, fitness level, and number of available spots.
