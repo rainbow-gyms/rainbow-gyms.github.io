@@ -19,4 +19,4 @@ This app uses a calendar that a user can tap in order to start a gym session sch
 
 ## Team Contract ## 
 Team contract can be found in this link:
-https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing
+<https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing>
