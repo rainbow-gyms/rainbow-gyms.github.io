@@ -1,25 +1,30 @@
-# About the Rainbow Gyms App
+# About Rainbow Gyms App
 
-## Why We Decided to Create This App
+## Overview
 
-Rainbow Gyms is an application that makes balancing the gym and schoolwork for computer engineering and computer science students alike with beginner to intermediate fitness levels. Due to a surge in global interests of going to the gym in the last decade, having physique goals does not only mean becoming stronger but also more confident and ready-to-tackle fearful challenges head on. Although our majors mean that we are constantly in front of papers or computers thinking about logic and maths, we often lose track of going to the gym. This is partly due to the fact we have no one to go with to make the journey fun. This repeated pattern can mean weeks, if not months, of wasted opportunity that could've been spent building your muscle base and getting to know the reins of gym equipments.
+Rainbow Gyms is a gym session scheduling application designed to help University of Hawaiʻi students balance fitness goals with their academic responsibilities. The app allows students to find workout partners, create gym sessions, and build a supportive fitness community within the campus environment.
 
-## Goal of This App
+## GitHub Organization and Repositories
 
-After getting familiar with this app, the user can expect to have progressed in their muscle-building journey whether that is being able to hold heavier weights or simply meeting new friends. The first time a person downloads the app, he/she will most likely try to search for people who seem trustworthy to go with at first. This is where the "level" system comes in. The more a person presses "Join" or "Start a Gym Session," the more points he/she is able to gather up. This means better-looking profile borders and unlocked features that new people wouldn't have.
+* Rainbow Gyms organization
+* Next.js application repository
+* Project home repository
 
-## What the System Should Eventually Provide
+## Rainbow Gyms Scope
 
-This app uses a calendar that a user can tap in order to start a gym session schedule for others to join. Another user will be able to see your profile at a time when they are planning to use the Warrior Recreation Center (during open hours). Other pages include:
-
-* Profile information (current level, logout, etc.)
-* Sign-up / Log-in
-* Contact Us
+* Students can browse and filter available gym sessions by day, time, and availability.
+* Students can view gym session details including the creator's profile picture, session time, location, fitness level, and number of available spots.
+* Students can create gym sessions through a calendar-based scheduling system for other students to join.
+* Students can join or leave gym sessions based on their availability and fitness goals.
+* Students can view user profiles containing information such as profile picture, fitness level, session history, and progression level.
+* The app includes a leveling system where users gain points from creating and joining gym sessions, unlocking profile improvements and future features.
+* Users can manage their account through sign-up, log-in, profile settings, and logout functionality.
+* Administrators may manage users, sessions, and reported content to maintain a safe and welcoming campus fitness community.
 
 ## Team Contract
 
 The team contract can be found here:
 
-https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing
+<https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing>
 
 # Mockup
