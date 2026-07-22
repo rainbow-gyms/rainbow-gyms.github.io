@@ -16,3 +16,7 @@ This app uses a calendar that a user can tap in order to start a gym session sch
 ## Mock ## 
 
 <img width="550.25px" height="325.75px" class="rounded float-start pe-4" src="Calendar-Mockup.png ">
+
+## Team Contract ## 
+Team contract can be found in this link:
+https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing
