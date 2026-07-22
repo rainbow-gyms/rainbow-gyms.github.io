@@ -3,7 +3,7 @@ description: Gym schedulling App for Computer majors
 url: "https://rainbow-gyms.github.io"
 baseurl: ""
 
-theme: minima
+theme: slate
 
 plugins:
   - jekyll-feed
