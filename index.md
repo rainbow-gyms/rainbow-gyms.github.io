@@ -6,9 +6,9 @@ Rainbow Gyms is a gym session scheduling application designed to help University
 
 ## GitHub Organization and Repositories
 
-* Rainbow Gyms organization
-* Next.js application repository
-* Project home repository
+* [Rainbow Gyms organization](https://github.com/rainbow-gyms)
+* [Next.js application repository](https://github.com/rainbow-gyms/rainbow-gyms-nextjs)
+* [Project home repository](https://github.com/rainbow-gyms/rainbow-gyms.github.io)
 
 ## Rainbow Use Cases
 
@@ -20,6 +20,9 @@ Rainbow Gyms is a gym session scheduling application designed to help University
 * The app includes a leveling system where users gain points from creating and joining gym sessions, unlocking profile improvements and future features.
 * Users can manage their account through sign-up, log-in, profile settings, and logout functionality.
 * Administrators may manage users, sessions, and reported content to maintain a safe and welcoming campus fitness community.
+
+## Deployment 
+[Vercel App](https://rainbow-gyms-nextjs.vercel.app/)
 
 ## Team Contract
 
