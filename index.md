@@ -29,6 +29,6 @@ The team contract can be found here:
 
 ## Team
 
-Rainbow Gyms is designed, implemented, and maintained by Joshua Abrogena and Joshua Koerte.
+Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https://jabrogena5100.github.io/) and Joshua Koerte.
 
 # Mockup
