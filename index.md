@@ -34,4 +34,13 @@ The team contract can be found here:
 
 Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https://jabrogena5100.github.io/) and Joshua Koerte.
 
-# Mockup
+## Milestones
+
+### Milestone 1
+
+[See our team's M1 page](https://github.com/orgs/rainbow-gyms/projects/2)
+
+# Mockups and Pages
+
+### Landing Page
+<img width="200px" class="rounded float-start pe-4" src="/LandingPage.png">
