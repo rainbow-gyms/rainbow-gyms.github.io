@@ -30,7 +30,7 @@ The team contract can be found [here]((https://docs.google.com/document/d/1algRm
 
 ## Team
 
-Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https://jabrogena5100.github.io/) and Joshua Koerte.
+Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https://jabrogena5100.github.io/) and [Joshua Koerte](https://jkoerte.github.io/).
 
 ## Milestones
 
@@ -43,16 +43,16 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 ### Landing Page
 <img width="576px" class="rounded float-start pe-4" src="/images/LandingPage.png">
 
-### Calendar (*Main Page*)
+### Calendar (*Main Page*) Mockup
 <img width="576px" class="rounded float-start pe-4" src="/images/Main-Page-Calendar.png">
 
-### My Sessions 
+### My Sessions Mockup
 <img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions.png">
 
-### Create a Session
+### Create a Session Mockup
 <img width="576px" class="rounded float-start pe-4" src="/images/Create-Session.png">
 
-### Profile Page
+### Profile Page Mockup
 <img width="576px" class="rounded float-start pe-4" src="/images/Profile.png">
 
 
