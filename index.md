@@ -1,4 +1,4 @@
-# About Rainbow Gyms App
+This is our home page for Rainbow Gyms, a gym-session scheduling app
 
 ## Overview
 
