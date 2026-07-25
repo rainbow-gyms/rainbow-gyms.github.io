@@ -1,5 +1,3 @@
-This is our home page for Rainbow Gyms, a gym-session scheduling app
-
 ## Overview
 
 Rainbow Gyms is a gym session scheduling application designed to help University of Hawaiʻi students balance fitness goals with their academic responsibilities. The app allows students to find workout partners, create gym sessions, and build a supportive fitness community within the campus environment.
