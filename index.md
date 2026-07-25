@@ -26,9 +26,9 @@ Rainbow Gyms is a gym session scheduling application designed to help University
 
 ## Team Contract
 
-The team contract can be found here:
+The team contract can be found [here]((https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing)
 
-<https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing>
+(https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing)
 
 ## Team
 
@@ -44,3 +44,17 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 
 ### Landing Page
 <img width="576px" class="rounded float-start pe-4" src="/images/LandingPage.png">
+
+### Calendar (*Main Page*)
+<img width="576px" class="rounded float-start pe-4" src="/images/Main-Page-Calendar.png">
+
+### My Sessions 
+<img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions.png">
+
+### Create a Session
+<img width="576px" class="rounded float-start pe-4" src="/images/Create-Session.png">
+
+### Profile Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Profile.png">
+
+
