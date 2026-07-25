@@ -28,8 +28,6 @@ Rainbow Gyms is a gym session scheduling application designed to help University
 
 The team contract can be found [here]((https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing)
 
-(https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing)
-
 ## Team
 
 Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https://jabrogena5100.github.io/) and Joshua Koerte.
