@@ -38,7 +38,7 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 
 ### Milestone 2
 
-[See our team's M2 page](https://github.com/orgs/rainbow-gyms/projects/2](https://github.com/orgs/rainbow-gyms/projects/3/views/1)
+[See our team's M2 page]([https://github.com](https://github.com/orgs/rainbow-gyms/projects/3/views/1))
 
 # Mockups and Pages
 
