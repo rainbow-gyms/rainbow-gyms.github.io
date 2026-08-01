@@ -3,12 +3,15 @@
 * [Overview](#overview)
 * [Github Organization and Repositories](#github-organization-and-repositories)
 * [Rainbow Use Cases](#rainbow-use-cases)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Team Contract](#team-contract)
 * [Team](#team)
-* [Milestone](#milestones)
+* [Milestones](#milestones)
    * [Milestone 1](#milestone-1)
    * [Milestone 2](#milestone-2)
+   * [Milestone 3](#milestone-3)
 
 ## Overview
 
@@ -30,6 +33,80 @@ Rainbow Gyms is a gym session scheduling application designed to help University
 * The app includes a leveling system where users gain points from creating and joining gym sessions, unlocking profile improvements and future features.
 * Users can manage their account through sign-up, log-in, profile settings, and logout functionality.
 * Administrators may manage users, sessions, and reported content to maintain a safe and welcoming campus fitness community.
+
+## User Guide
+
+When a user first visits Rainbow Gyms, they'll be greeted by our landing page.  
+<img width="576px" class="rounded float-start pe-4" src="/images/LandingPage.png">  
+This page gives a brief overview of our website's goals, purpose, and features.  
+
+If a user is new and doesn't have an account, they can create one via our sign-up page.  
+<img width="576px" class="rounded float-start pe-4" src="/images/Sign-Up.png">  
+Alternatively, if they already have an account, they can use the sign-in page.  
+<img width="576px" class="rounded float-start pe-4" src="/images/Sign-In.png">  
+
+Once a user creates a new account, they'll be greeted by our profile creation page.  
+<img width="576px" class="rounded float-start pe-4" src="/images/Setup-Profile.png">  
+
+After entering the required details and completing their profile, users will be greeted by our directory page.  
+<img width="576px" class="rounded float-start pe-4" src="/images/Browse.png">  
+Users will be able to browse through all of the open and available workout sessions. This page also serves as the landing page if you're logged in to an account.  
+
+If a user wants to see more details for any given workout sessions, they can click the "More Info" button, which will redirect them to the session's profile page.  
+<img width="576px" class="rounded float-start pe-4" src="/images/Session-Profile.png">  
+
+If instead a user wants to create their own workout session rather than join one, they can click on "Create" in their navbar. This will redirect them to the "Create a Session" page.  
+<img width="576px" class="rounded float-start pe-4" src="/images/Create-Session-2.png">  
+
+A user can view all of the sessions they created by clicking on "My Sessions" in their navbar.  
+<img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions-2.png">  
+
+If a user wants to look at a calendar to check the date, they can do so by selecting "Calendar" in their navbar.  
+<img width="576px" class="rounded float-start pe-4" src="/images/Main-Page-Calendar.png">
+
+Finally, users can view their profile details by clicking on their profile email in the top right of their navbar and selecting "Profile." They will be redirected to the page below.  
+<img width="576px" class="rounded float-start pe-4" src="/images/Profile-2.png">
+
+## Developer Guide
+
+If you're interested in running this project locally, please follow the instructions below.  
+
+1. Install PostgreSQL and create a database for your app:
+```
+createdb rainbow-gyms
+```
+<small>Your database can be named anything. It doesn't have to be rainbow-gyms.</small>
+
+2. Clone this repo locally on your own device.  
+
+3. cd into the app directory and install the required dependencies
+```
+npm install
+```
+4. Create your `.env` file
+    * Copy `sample.env` to `.env` and update the `DATABASE_URL` to match your PostgreSQL setup.  
+  
+5. Run database migrations:
+```
+npx prisma migrate dev
+```
+
+6. Generate Prisma client:
+```
+npx prisma generate
+```
+
+7. Seed the database with some default data:
+```
+npm run seed
+```
+
+8. Start the development server:
+```
+npm run dev
+```
+
+The app will be available at http://localhost:3000.
 
 ## Deployment 
 [View our live deployment of Rainbow Gyms on Vercel](https://rainbow-gyms-nextjs.vercel.app/)
@@ -90,3 +167,7 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 
 #### My Sessions Page
 <img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions-2.png">
+
+### Milestone 3
+
+[See our team's M3 page](https://github.com/orgs/rainbow-gyms/projects/4/views/1)
