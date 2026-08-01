@@ -1,3 +1,15 @@
+## Table of Contents
+
+* [Overview](#overview)
+* [Github Organization and Repositories](#github-organization-and-repositories)
+* [Rainbow Use Cases](#rainbow-use-cases)
+* [Deployment](#deployment)
+* [Team Contract](#team-contract)
+* [Team](#team)
+* [Milestone](#milestones)
+   * [Milestone 1](#milestone-1)
+   * [Milestone 2](#milestone-2)
+
 ## Overview
 
 Rainbow Gyms is a gym session scheduling application designed to help University of Hawaiʻi students balance fitness goals with their academic responsibilities. The app allows students to find workout partners, create gym sessions, and build a supportive fitness community within the campus environment.
