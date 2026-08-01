@@ -69,6 +69,45 @@ Finally, users can view their profile details by clicking on their profile email
 
 ## Developer Guide
 
+If you're interested in running this project locally, please follow the instructions below.  
+
+1. Install PostgreSQL and create a database for your app:
+```
+createdb rainbow-gyms
+```
+<small>Your database can be named anything. It doesn't have to be rainbow-gyms.</small>
+
+2. Clone this repo locally on your own device.  
+
+3. cd into the app directory and install the required dependencies
+```
+npm install
+```
+4. Create your `.env` file
+    * Copy `sample.env` to `.env` and update the `DATABASE_URL` to match your PostgreSQL setup.  
+  
+5. Run database migrations:
+```
+npx prisma migrate dev
+```
+
+6. Generate Prisma client:
+```
+npx prisma generate
+```
+
+7. Seed the database with some default data:
+```
+npm run seed
+```
+
+8. Start the development server:
+```
+npm run dev
+```
+
+The app will be available at http://localhost:3000.
+
 ## Deployment 
 [View our live deployment of Rainbow Gyms on Vercel](https://rainbow-gyms-nextjs.vercel.app/)
 
