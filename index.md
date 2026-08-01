@@ -73,7 +73,7 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 #### Sign Up Page
 <img width="576px" class="rounded float-start pe-4" src="/images/Sign-Up.png">
 
-#### Setup Profile Page#### 
+#### Setup Profile Page
 <img width="576px" class="rounded float-start pe-4" src="/images/Setup-Profile.png">
 
 #### Profile Page
