@@ -50,9 +50,9 @@ Once a user creates a new account, they'll be greeted by our profile creation pa
 
 After entering the required details and completing their profile, users will be greeted by our directory page.  
 <img width="576px" class="rounded float-start pe-4" src="/images/Browse.png">  
-Users will be able to browse through all of the open and available workout sessions. This page also serves as the landing page if you're logged in to an account.  
+Users will be able to browse through all of the open and available workout sessions and filter them by workout type, experience level, location, and/or date. This page also serves as the landing page if you're logged in to an account.  
 
-If a user wants to see more details for any given workout sessions, they can click the "More Info" button, which will redirect them to the session's profile page.  
+If a user wants to see more details for any given workout sessions, they can click a session card's "More Info" button, which will redirect them to the session's profile page.  
 <img width="576px" class="rounded float-start pe-4" src="/images/Session-Profile.png">  
 
 If instead a user wants to create their own workout session rather than join one, they can click on "Create" in their navbar. This will redirect them to the "Create a Session" page.  
@@ -75,11 +75,11 @@ If you're interested in running this project locally, please follow the instruct
 ```
 createdb rainbow-gyms
 ```
-<small>Your database can be named anything. It doesn't have to be rainbow-gyms.</small>
+<small>Note: Your database can be named anything. It doesn't have to be rainbow-gyms.</small>
 
 2. Clone this repo locally on your own device.  
 
-3. cd into the app directory and install the required dependencies
+3. cd into the app directory and install the required dependencies.
 ```
 npm install
 ```
@@ -106,14 +106,14 @@ npm run seed
 npm run dev
 ```
 
-The app will be available at http://localhost:3000.
+The app will be available at [http://localhost:3000](http://localhost:3000).
 
 ## Deployment 
 [View our live deployment of Rainbow Gyms on Vercel](https://rainbow-gyms-nextjs.vercel.app/)
 
 ## Team Contract
 
-Our team contract can be found [here](https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing)
+Our team contract can be found [here](https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing).
 
 ## Team
 
@@ -123,7 +123,7 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 
 ### Milestone 1
 
-[See our team's M1 page](https://github.com/orgs/rainbow-gyms/projects/2)
+[See our team's M1 project page](https://github.com/orgs/rainbow-gyms/projects/2)
 
 #### Landing Page
 <img width="576px" class="rounded float-start pe-4" src="/images/LandingPage.png">
@@ -142,7 +142,7 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 
 ### Milestone 2
 
-[See our team's M2 page](https://github.com/orgs/rainbow-gyms/projects/3/views/1)
+[See our team's M2 project page](https://github.com/orgs/rainbow-gyms/projects/3/views/1)
 
 #### Sign In Page
 <img width="576px" class="rounded float-start pe-4" src="/images/Sign-In.png">
@@ -170,4 +170,4 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 
 ### Milestone 3
 
-[See our team's M3 page](https://github.com/orgs/rainbow-gyms/projects/4/views/1)
+[See our team's M3 project page](https://github.com/orgs/rainbow-gyms/projects/4/views/1)
