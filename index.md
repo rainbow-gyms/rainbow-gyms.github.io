@@ -6,9 +6,10 @@
 * [Deployment](#deployment)
 * [Team Contract](#team-contract)
 * [Team](#team)
-* [Milestone](#milestones)
+* [Milestones](#milestones)
    * [Milestone 1](#milestone-1)
    * [Milestone 2](#milestone-2)
+   * [Milestone 3](#milestone-3)
 
 ## Overview
 
@@ -90,3 +91,7 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 
 #### My Sessions Page
 <img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions-2.png">
+
+### Milestone 3
+
+[See our team's M3 page](https://github.com/orgs/rainbow-gyms/projects/4/views/1)
