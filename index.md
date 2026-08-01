@@ -69,4 +69,28 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 
 [See our team's M2 page](https://github.com/orgs/rainbow-gyms/projects/3/views/1)
 
-#### New Screenshots
+#### Screenshots
+
+<b>Sign In Page</b>
+<img width="576px" class="rounded float-start pe-4" src="/images/Sign-In.png">
+
+<b>Sign Up Page</b>
+<img width="576px" class="rounded float-start pe-4" src="/images/Sign-Up.png">
+
+<b>Setup Profile Page<b>
+<img width="576px" class="rounded float-start pe-4" src="/images/Setup-Profile.png">
+
+<b>Profile Page</b>
+<img width="576px" class="rounded float-start pe-4" src="/images/Profile-2.png">
+
+<b>Landing Page (After Login)</b>
+<img width="576px" class="rounded float-start pe-4" src="/images/Browse.png">
+
+<b>Session Details Page</b>
+<img width="576px" class="rounded float-start pe-4" src="/images/Session-Profile.png">
+
+<b>Create Session Page</b>
+<img width="576px" class="rounded float-start pe-4" src="/images/Create-Session-2.png">
+
+<b>My Sessions Page</b>
+<img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions-2.png">
