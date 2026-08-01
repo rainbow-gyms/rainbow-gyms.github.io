@@ -1,3 +1,15 @@
+## Table of Contents
+
+* [Overview](#overview)
+* [Github Organization and Repositories](#github-organization-and-repositories)
+* [Rainbow Use Cases](#rainbow-use-cases)
+* [Deployment](#deployment)
+* [Team Contract](#team-contract)
+* [Team](#team)
+* [Milestone](#milestones)
+   * [Milestone 1](#milestone-1)
+   * [Milestone 2](#milestone-2)
+
 ## Overview
 
 Rainbow Gyms is a gym session scheduling application designed to help University of Hawaiʻi students balance fitness goals with their academic responsibilities. The app allows students to find workout partners, create gym sessions, and build a supportive fitness community within the campus environment.
@@ -20,11 +32,11 @@ Rainbow Gyms is a gym session scheduling application designed to help University
 * Administrators may manage users, sessions, and reported content to maintain a safe and welcoming campus fitness community.
 
 ## Deployment 
-[Vercel App](https://rainbow-gyms-nextjs.vercel.app/)
+[View our live deployment of Rainbow Gyms on Vercel](https://rainbow-gyms-nextjs.vercel.app/)
 
 ## Team Contract
 
-The team contract can be found [here](https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing)
+Our team contract can be found [here](https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing)
 
 ## Team
 
@@ -36,25 +48,45 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 
 [See our team's M1 page](https://github.com/orgs/rainbow-gyms/projects/2)
 
+#### Landing Page
+<img width="576px" class="rounded float-start pe-4" src="/images/LandingPage.png">
+
+#### Calendar (<i>Main Page</i>) Mockup
+<img width="576px" class="rounded float-start pe-4" src="/images/Main-Page-Calendar.png">
+
+#### My Sessions Mockup
+<img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions.png">
+
+#### Create a Session Mockup
+<img width="576px" class="rounded float-start pe-4" src="/images/Create-Session.png">
+
+#### Profile Page Mockup
+<img width="576px" class="rounded float-start pe-4" src="/images/Profile.png">
+
 ### Milestone 2
 
 [See our team's M2 page](https://github.com/orgs/rainbow-gyms/projects/3/views/1)
 
-# Mockups and Pages
+#### Sign In Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Sign-In.png">
 
-### Landing Page
-<img width="576px" class="rounded float-start pe-4" src="/images/LandingPage.png">
+#### Sign Up Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Sign-Up.png">
 
-### Calendar (*Main Page*) Mockup
-<img width="576px" class="rounded float-start pe-4" src="/images/Main-Page-Calendar.png">
+#### Setup Profile Page#### 
+<img width="576px" class="rounded float-start pe-4" src="/images/Setup-Profile.png">
 
-### My Sessions Mockup
-<img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions.png">
+#### Profile Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Profile-2.png">
 
-### Create a Session Mockup
-<img width="576px" class="rounded float-start pe-4" src="/images/Create-Session.png">
+#### Landing Page (After Login)
+<img width="576px" class="rounded float-start pe-4" src="/images/Browse.png">
 
-### Profile Page Mockup
-<img width="576px" class="rounded float-start pe-4" src="/images/Profile.png">
+#### Session Details Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Session-Profile.png">
 
+#### Create Session Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Create-Session-2.png">
 
+#### My Sessions Page
+<img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions-2.png">
