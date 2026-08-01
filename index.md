@@ -48,49 +48,45 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 
 [See our team's M1 page](https://github.com/orgs/rainbow-gyms/projects/2)
 
-#### Mockups and Pages
-
-<b>Landing Page</b>
+#### Landing Page
 <img width="576px" class="rounded float-start pe-4" src="/images/LandingPage.png">
 
-<b>Calendar (<i>Main Page</i>) Mockup</b>
+#### Calendar (<i>Main Page</i>) Mockup
 <img width="576px" class="rounded float-start pe-4" src="/images/Main-Page-Calendar.png">
 
-<b>My Sessions Mockup</b>
+#### My Sessions Mockup
 <img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions.png">
 
-<b>Create a Session Mockup</b>
+#### Create a Session Mockup
 <img width="576px" class="rounded float-start pe-4" src="/images/Create-Session.png">
 
-<b>Profile Page Mockup</b>
+#### Profile Page Mockup
 <img width="576px" class="rounded float-start pe-4" src="/images/Profile.png">
 
 ### Milestone 2
 
 [See our team's M2 page](https://github.com/orgs/rainbow-gyms/projects/3/views/1)
 
-#### Screenshots
-
-<b>Sign In Page</b>
+#### Sign In Page
 <img width="576px" class="rounded float-start pe-4" src="/images/Sign-In.png">
 
-<b>Sign Up Page</b>
+#### Sign Up Page
 <img width="576px" class="rounded float-start pe-4" src="/images/Sign-Up.png">
 
-<b>Setup Profile Page<b>
+#### Setup Profile Page#### 
 <img width="576px" class="rounded float-start pe-4" src="/images/Setup-Profile.png">
 
-<b>Profile Page</b>
+#### Profile Page
 <img width="576px" class="rounded float-start pe-4" src="/images/Profile-2.png">
 
-<b>Landing Page (After Login)</b>
+#### Landing Page (After Login)
 <img width="576px" class="rounded float-start pe-4" src="/images/Browse.png">
 
-<b>Session Details Page</b>
+#### Session Details Page
 <img width="576px" class="rounded float-start pe-4" src="/images/Session-Profile.png">
 
-<b>Create Session Page</b>
+#### Create Session Page
 <img width="576px" class="rounded float-start pe-4" src="/images/Create-Session-2.png">
 
-<b>My Sessions Page</b>
+#### My Sessions Page
 <img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions-2.png">
