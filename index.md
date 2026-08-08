@@ -1,3 +1,5 @@
+[![Rainbow Gyms CI](https://github.com/rainbow-gyms/rainbow-gyms-nextjs/actions/workflows/ci.yml/badge.svg)](https://github.com/rainbow-gyms/rainbow-gyms-nextjs/actions/workflows/ci.yml)
+
 ## Table of Contents
 
 * [Overview](#overview)
