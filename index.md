@@ -121,6 +121,9 @@ The app will be available at [http://localhost:3000](http://localhost:3000).
 ## Deployment 
 [View our live deployment of Rainbow Gyms on Vercel](https://rainbow-gyms-nextjs.vercel.app/)
 
+## Community Feedback
+We are currently in the process of receiving feedback from our testers.
+
 ## Milestones
 
 ### Milestone 1
