@@ -3,13 +3,13 @@
 ## Table of Contents
 
 * [Overview](#overview)
+* [Team](#team)
+* [Team Contract](#team-contract)
 * [Github Organization and Repositories](#github-organization-and-repositories)
 * [Rainbow Use Cases](#rainbow-use-cases)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
-* [Team Contract](#team-contract)
-* [Team](#team)
 * [Milestones](#milestones)
    * [Milestone 1](#milestone-1)
    * [Milestone 2](#milestone-2)
@@ -18,6 +18,14 @@
 ## Overview
 
 Rainbow Gyms is a gym session scheduling application designed to help University of Hawaiʻi students balance fitness goals with their academic responsibilities. The app allows students to find workout partners, create gym sessions, and build a supportive fitness community within the campus environment.
+
+## Team Contract
+
+Our team contract can be found [here](https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing).
+
+## Team
+
+Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https://jabrogena5100.github.io/), [Joshua Koerte](https://jkoerte.github.io/), and [Tayten Yau](https://tayten0.github.io/).
 
 ## GitHub Organization and Repositories
 
@@ -112,14 +120,6 @@ The app will be available at [http://localhost:3000](http://localhost:3000).
 
 ## Deployment 
 [View our live deployment of Rainbow Gyms on Vercel](https://rainbow-gyms-nextjs.vercel.app/)
-
-## Team Contract
-
-Our team contract can be found [here](https://docs.google.com/document/d/1algRmpXW86wuj2J9FpdIfrhPnD4kGLlib5fFAoGzR6E/edit?usp=sharing).
-
-## Team
-
-Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https://jabrogena5100.github.io/), [Joshua Koerte](https://jkoerte.github.io/), and [Tayten Yau](https://tayten0.github.io/).
 
 ## Milestones
 
