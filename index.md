@@ -47,35 +47,69 @@ Rainbow Gyms is designed, implemented, and maintained by [Joshua Abrogena](https
 ## User Guide
 
 When a user first visits Rainbow Gyms, they'll be greeted by our landing page.  
+  
 <img width="576px" class="rounded float-start pe-4" src="/images/LandingPage.png">  
+  
 This page gives a brief overview of our website's goals, purpose, and features.  
 
 If a user is new and doesn't have an account, they can create one via our sign-up page.  
-<img width="576px" class="rounded float-start pe-4" src="/images/Sign-Up.png">  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/Sign-Up-m3.png">  
+  
 Alternatively, if they already have an account, they can use the sign-in page.  
+  
 <img width="576px" class="rounded float-start pe-4" src="/images/Sign-In.png">  
 
 Once a user creates a new account, they'll be greeted by our profile creation page.  
-<img width="576px" class="rounded float-start pe-4" src="/images/Setup-Profile.png">  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/Setup-Profile-m3.png">  
+  
+On this page, users can enter their account name, major, select their year and experience level, provide a short bio about themself, and link an image to use as their profile icon.  
 
 After entering the required details and completing their profile, users will be greeted by our directory page.  
-<img width="576px" class="rounded float-start pe-4" src="/images/Browse.png">  
+<img width="576px" class="rounded float-start pe-4" src="/images/Browse-m3.png">  
+  
 Users will be able to browse through all of the open and available workout sessions and filter them by workout type, experience level, location, and/or date. This page also serves as the landing page if you're logged in to an account.  
 
 If a user wants to see more details for any given workout sessions, they can click a session card's "More Info" button, which will redirect them to the session's profile page.  
-<img width="576px" class="rounded float-start pe-4" src="/images/Session-Profile.png">  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/Session-Profile-m3.png">  
+  
+The session profile page displays the session's name, location, date and time, as well as the session type, the host's experience level, it's capacity and capacity status, and the current participants who have signed up. They can also join by clicking the "Join" button, or return to the directory by clicking the "Back to Browse" button.  
 
 If instead a user wants to create their own workout session rather than join one, they can click on "Create" in their navbar. This will redirect them to the "Create a Session" page.  
-<img width="576px" class="rounded float-start pe-4" src="/images/Create-Session-2.png">  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/Create-Session-m3.png">  
 
 A user can view all of the sessions they created by clicking on "My Sessions" in their navbar.  
-<img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions-2.png">  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions-m3.png">  
 
-If a user wants to look at a calendar to check the date, they can do so by selecting "Calendar" in their navbar.  
-<img width="576px" class="rounded float-start pe-4" src="/images/Main-Page-Calendar.png">
+If a user would like to browse through workout sessions using a calendar view, they can do so by clicking on "Calendar" in their navbar.  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/Main-Page-Calendar.png">  
+  
+They can see which days have workout sessions scheduled, easily determine which sessions are full, and just like the directory page, there are filters users can apply to help them find the right workout session.  
 
-Finally, users can view their profile details by clicking on their profile email in the top right of their navbar and selecting "Profile." They will be redirected to the page below.  
-<img width="576px" class="rounded float-start pe-4" src="/images/Profile-2.png">
+If a user wants to learn more, they can just click on any of the session badges. This will trigger a pop-up that displays the session details and has a join button.  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/Popup-Join.png">  
+  
+If the session is full, the join button will be replaced with a "Session Full" warning instead.  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/Popup-Full.png">  
+
+Users can view their profile details by clicking on their profile email in the top right of their navbar and selecting "Profile." They will be redirected to the page below.  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/Profile-m3.png">  
+  
+Finally, there are two informational pages that users can access should they want to. These include our "Contact Us" page:  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/Contact-Us.png">  
+  
+And our "About Us" page:  
+  
+<img width="576px" class="rounded float-start pe-4" src="/images/About-Us.png">  
 
 ## Developer Guide
 
