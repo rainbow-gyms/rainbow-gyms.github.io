@@ -87,7 +87,7 @@ A user can view all of the sessions they created by clicking on "My Sessions" in
 
 If a user would like to browse through workout sessions using a calendar view, they can do so by clicking on "Calendar" in their navbar.  
   
-<img width="576px" class="rounded float-start pe-4" src="/images/Main-Page-Calendar.png">  
+<img width="576px" class="rounded float-start pe-4" src="/images/Calendar-m3.png">  
   
 They can see which days have workout sessions scheduled, easily determine which sessions are full, and just like the directory page, there are filters users can apply to help them find the right workout session.  
 
@@ -210,3 +210,39 @@ We are currently in the process of receiving feedback from our testers.
 ### Milestone 3
 
 [See our team's M3 project page](https://github.com/orgs/rainbow-gyms/projects/4/views/1)
+
+#### Sign Up Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Sign-Up-m3.png">
+
+#### Setup Profile Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Setup-Profile-m3.png">
+
+#### Profile Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Profile-m3.png">
+
+#### Landing Page (After Login)
+<img width="576px" class="rounded float-start pe-4" src="/images/Browse-m3.png">
+
+#### Session Details Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Session-Profile-m3.png">
+
+#### Create Session Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Create-Session-m3.png">
+
+#### My Sessions Page
+<img width="576px" class="rounded float-start pe-4" src="/images/My-Sessions-m3.png">
+
+#### Calendar Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Calendar-m3.png">
+
+#### Session Details Pop-Up (Available)
+<img width="576px" class="rounded float-start pe-4" src="/images/Popup-Join.png">
+
+#### Session Details Pop-Up (Full)
+<img width="576px" class="rounded float-start pe-4" src="/images/Popup-Full.png">
+
+#### Contact Us Page
+<img width="576px" class="rounded float-start pe-4" src="/images/Contact-Us.png">
+
+#### About Us Page
+<img width="576px" class="rounded float-start pe-4" src="/images/About-Us.png">
