@@ -156,7 +156,23 @@ The app will be available at [http://localhost:3000](http://localhost:3000).
 [View our live deployment of Rainbow Gyms on Vercel](https://rainbow-gyms-nextjs.vercel.app/)
 
 ## Community Feedback
-We are currently in the process of receiving feedback from our testers.
+We'd like to thank the people who were willing to help us out by testing the final deployment of Rainbow Gyms.
+* Curtis Y., Senior Undergradaute Student, UH Manoa
+* Aleena B., Senior Undergradaute Student, UH Manoa
+* Danil K., Senior Undergradaute Student, UH Manoa
+* Norah K., Undergraduate Student, UH Manoa
+
+### Summary
+Overall, the project's main features work properly. Users are able to create sessions, view session details, and join sessions through both the Directory page and the Calendar page. However, our testers encountered several bugs and provided us with several suggestions for improvement.
+
+### Likes
+The overall design and layout of the website is great, featuring an appealing theme that is easy on the eyes and mostly simple to navigate. Users appreciated the clear and organized footer design as well as the ability to filter through many options for workout sessions. The core concept behind the platform is seen as very useful if more people adopt it, and the general aesthetic receives high praise.
+
+### Bugs
+Several functional issues and broken elements were identified across the site. Multiple links fail to go anywhere, including a cluster of broken links in the footer such as the Testimonies page and UH Gym links. Clicking the "Join Session" button for a session a user has already joined displays a React error message instead of handling the action correctly. Additionally, a photo in the footer drops its image and displays only its alt text when a user is signed in, the Rainbow Gyms logo fails to show up in the footer on mobile devices, the calendar page layout is messed up on mobile, and the calendar component itself is slightly weird as it clips through the footer. Finally, the feedback form on the contact us page lacks a confirmation or error notification event upon submission.
+
+### Improvement Suggestions
+Users recommend adding comprehensive profile editing features, such as changing profile pictures, adding bios, and including optional personal or contact info to simplify coordination for profiles or workout sessions. To improve data input, minimum open spots should be changed to a slider or text box to accommodate up to 40 participants, and form layouts should be made more dynamic rather than restricted to a single column. Additional feature requests include a title search, a host search, a dark mode setting, Google Maps integration or location links, a password strength checker for new accounts, and changing the redundant join button into an unjoin session button. Finally, users requested different images on the about us tab.
 
 ## Milestones
 
